@@ -1,3 +1,5 @@
+### 저는 프론트엔드 개발자입니다. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7b/giphy.gif" width="25px">
+
 I'm studying to become Back-End developer. 👋
 
 
