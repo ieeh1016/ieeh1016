@@ -1,4 +1,4 @@
-### I'm studying to become Back-End developer.  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7b/giphy.gif" width="25px">
+### I'm studying to become Back-End developer.  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 
@@ -10,20 +10,20 @@
 
 <summary>🤷‍♂️ <b> BaekJoon Stats: </b></summary>
   <br>
-<p align="center">
+<p align="left">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ieeh1016"/>
 </p>
 </자세히>
 
 <summary> <b>Github Streaks: </b></summary>
   <br>
-<p align="center">
+<p align="left">
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ieeh1016&hide_border=true&theme=vue-dark" />  
 </p>
 
 <summary>📚 <b>Github Stats: </b></summary>
 <br>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ieeh1016&&show_icons=true&theme=vue-dark&line_height=27"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ieeh1016&theme=vue-dark&langs_count=3">
 </p>
