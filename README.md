@@ -8,22 +8,22 @@ I'm studying to become Back-End developer. 👋
 * Used launguage: <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span><span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></span><span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></span>
 
 
-<summary>🤷‍♂️ <b>백준 통계: </b></summary>
+<summary>🤷‍♂️ <b> BaekJoon Stats: </b></summary>
   <br>
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ieeh1016"/>
 </p>
 </자세히>
 
- <b>Github 연속 실행: </b></summary>
+<summary> <b>Github Streaks: </b></summary>
   <br>
-<p 정렬 = "중앙">
+<p align="center">
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ieeh1016&hide_border=true&theme=vue-dark" />  
 </p>
 
-<summary>📚 <b>Github 통계: </b></summary>
+<summary>📚 <b>Github Stats: </b></summary>
 <br>
-<p 정렬 = "중앙">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ieeh1016&&show_icons=true&theme=vue-dark&line_height=27"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ieeh1016&theme=vue-dark&langs_count=3">
 </p>
