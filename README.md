@@ -1,5 +1,7 @@
-### Hi there 👋
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+I'm studying to become Back-End developer. 👋
+
+✨ Tech Stacks
+* Front-end:<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></span><span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></span><span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></span>
 <!--
 **ieeh1016/ieeh1016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
