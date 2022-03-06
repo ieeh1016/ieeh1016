@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave)
 
 #### My name is Young Woo Hyun.
-### I'm studying to become Backend developer.  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### I'm studying to become FrontEnd developer.  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 
