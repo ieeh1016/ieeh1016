@@ -27,7 +27,7 @@
 <summary>📚 <b>Github Stats: </b></summary>
 <br>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ieeh1016&&show_icons=true&theme=vue-dark&line_height=27"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ieeh10116&&show_icons=true&theme=vue-dark&line_height=27"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ieeh1016&theme=vue-dark&langs_count=3">
 </p>
 </자세히>
