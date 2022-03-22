@@ -21,7 +21,7 @@
 <summary>&#128293 <b>Github Streaks: </b></summary>
   <br>
 <p align="left">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ieeh1016&theme=green" />  
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ieeh1016&theme=yellow" />  
 </p>
 
 <summary>📚 <b>Github Stats: </b></summary>
