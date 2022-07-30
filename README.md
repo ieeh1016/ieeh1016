@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Young%20Woo's%20GitHub&fontSize=30)
 #### My name is Young Woo Hyun.
-### I'm studying to become Android App developer. 
+### I'm studying to become Android Application developer. 
 
 
 ✨ Tech Stacks
