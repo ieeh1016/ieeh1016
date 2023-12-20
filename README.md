@@ -3,7 +3,7 @@
 ### I'm Android Application developer. 
 
 <summary>📖 <b> Resume </b></summary>
-[이력서](https://www.rallit.com/resumes/174216@haryan96/%ED%95%98%ED%98%84%EC%A4%80)
+[MY_RESUME](https://www.notion.so/YoungWoo-Hyun-e9216017272744b4818ab76dd874bdab?pvs=4)
 
 <summary>✨ <b> Tech Stacks </b></summary>
 * Used launguage: <span><img src="https://img.shields.io/badge/Kotlin-007396?style=flat-square&logo=Kotlin&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></span> <span>![Csharp Badge](https://img.shields.io/badge/-C%23%20-239120?style=flat&logo=C%20Sharp&logoColor=FFFFFF)</span>
