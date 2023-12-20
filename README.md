@@ -3,9 +3,9 @@
 ### I'm Android Application developer. 
 
 <summary>📖 <b> Resume </b></summary>
-![resume](https://www.notion.so/YoungWoo-Hyun-e9216017272744b4818ab76dd874bdab?pvs=4)
 
-<br>
+[resume](https://www.notion.so/YoungWoo-Hyun-e9216017272744b4818ab76dd874bdab?pvs=4).
+
 <br>
 
 <summary>✨ <b> Tech Stacks </b></summary>
