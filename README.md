@@ -4,7 +4,7 @@
 
 📖 <b> Resume </b>
 
-[MY PORTFOLIO](https://www.notion.so/YoungWoo-Hyun-e9216017272744b4818ab76dd874bdab?pvs=4)
+[MY PORTFOLIO]([https://www.notion.so/YoungWoo-Hyun-e9216017272744b4818ab76dd874bdab?pvs=4](https://dot-stove-a0a.notion.site/YoungWoo-Hyun-e9216017272744b4818ab76dd874bdab?pvs=4))
 
 
 <summary>✨ <b> Tech Stacks </b></summary>
