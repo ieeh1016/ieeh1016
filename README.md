@@ -2,11 +2,6 @@
 #### My name is Young Woo Hyun.
 ### I'm Android Application developer. 
 
-📖 <b> Resume </b>
-
-[MY PORTFOLIO](https://dot-stove-a0a.notion.site/YoungWoo-Hyun-e9216017272744b4818ab76dd874bdab?pvs=4)
-
-
 <summary>✨ <b> Tech Stacks </b></summary>
 
 * Used launguage: <span><img src="https://img.shields.io/badge/Kotlin-007396?style=flat-square&logo=Kotlin&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/-C%23%20-239120?style=flat&logo=C%20Sharp&logoColor=FFFFFF"></span>
