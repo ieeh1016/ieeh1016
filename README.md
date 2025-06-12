@@ -11,13 +11,6 @@
 
 <br>
 
-<summary>🤷‍♂️ <b> BaekJoon Stats: </b></summary>
-  <br>
-<p align="left">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ieeh1016"/>
-</p>
-</자세히>
-
 <summary>&#128293 <b>Github Streaks: </b></summary>
   <br>
 <p align="left">
